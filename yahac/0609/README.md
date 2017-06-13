@@ -34,7 +34,7 @@ PHP : HTML 문서 내의 태그와 '정보'를 분리해 관리할 수 있는 �
 
 ## 웹페이지에 코드 삽입하기
 
-**1.php**
+**1_example.php**
 
 ```
 <!DOCTYPE HTML>
