@@ -7,7 +7,7 @@
 **JS, PHP 공통 : function 키워드를 이용해 선언, { } 바디 안에 실행 내용 기재**  
 
 *Javascript*  
-```
+```javascript
 
 // 선언
 function A(){
@@ -19,7 +19,7 @@ A();
 ```
   
 *PHP*
-```
+```php
 <?php
 
     // 선언 
@@ -41,7 +41,7 @@ A();
 또한 함수 바디 내에선 **return 값** 구문을 작성해 함수 수행을 멈추고, 값을 반환할 수 있음  
 
 *Javascript*
-```
+```javascript
 
 // 선언
 function A(input){  // 함수를 호출할 때 인자값을 하나 넘겨주겠다!
@@ -56,7 +56,7 @@ document.write(result);
 ```
 
 *PHP*
-```
+```php
 <?php
 
     // 선언

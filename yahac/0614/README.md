@@ -11,7 +11,7 @@
 
 **배열 생성**  
 
-```
+```js
 list = new Array("one", "two", "three");
 ```
   
@@ -24,7 +24,7 @@ list = new Array("one", "two", "three");
 
 **배열 생성**  
 
-```
+```php
 $list = array("one", "two", "three");
 ```
 
@@ -36,7 +36,7 @@ $list = array("one", "two", "three");
 
 #### Javascript
 
-```
+```js
 list = new Array("one", "two", "three");
 i = 0;
 
@@ -48,7 +48,7 @@ while(i < list.length){
 
 #### PHP
 
-```
+```php
 $list = array("최진혁", "최유빈", "한이람", "한이은");
 $i = 0;
 
